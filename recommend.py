@@ -11,7 +11,7 @@ from visualize import draw_map
 # Phase 2: Unsupervised Learning #
 ##################################
 
-# centroid is a group of different locations where each location is a list of two elemnents
+# centroid is a group of different locations where each location is a list of two elements
 
 
 def find_closest(location, centroids):
