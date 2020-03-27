@@ -1,5 +1,7 @@
 """Utilities for Maps"""
 
+#Below are all the utility functions to be used in the MAPS project
+
 from math import sqrt
 from random import sample
 
